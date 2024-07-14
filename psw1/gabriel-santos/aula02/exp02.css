@@ -1,0 +1,21 @@
+h1 {
+    background-color: aliceblue;
+}
+
+h2 {
+    background-color: pink;
+}
+
+p{background-color: fuchsia;}
+
+#p2 {
+
+    background-color: red;
+}
+
+.stilo {
+    background-color: yellow;
+    height: 200px;
+    width: 600px;
+    display: center;
+}

@@ -1,0 +1,27 @@
+#div1 {
+    background-color: blue;
+height: 500px;
+}
+
+#div2 {
+    background-color: red;
+    height: 500px;
+}
+
+#div3 {
+    background-color: yellow;
+    height: 500px;
+}
+
+#div4 {
+    background-color: green;
+    height: 500px;
+}
+
+
+.teste {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    padding-top:250px;
+}
